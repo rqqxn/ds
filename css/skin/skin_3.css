@@ -1,0 +1,22 @@
+header{
+	background:url(../../img/4.png) no-repeat 50% center;
+}
+.trends{
+    background: url(../../img/4.png) no-repeat left top;
+}
+.active a{
+    background: #558927;
+    color: #fff;
+}
+header nav li:hover{
+    background: #558927;
+}
+header nav li:hover a{
+	color: white;
+}
+header nav li:hover ul{
+	background: #558927;
+}
+header nav li:hover ul li:hover{
+	background: rgba(0,0,0,0.1);
+}
